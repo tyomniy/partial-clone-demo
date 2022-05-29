@@ -1,1 +1,1 @@
-# partial-clone-demo
+# partial-clone-demo - some changes
